@@ -46,7 +46,7 @@ import java.io.IOException;
  */
 public final class RecoverySystemService extends SystemService {
     private static final String TAG = "RecoverySystemService";
-    private static final boolean DEBUG = false;
+    private static final boolean DEBUG = true;
 
     // The socket at /dev/socket/uncrypt to communicate with uncrypt.
     private static final String UNCRYPT_SOCKET = "uncrypt";
