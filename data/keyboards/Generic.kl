@@ -135,7 +135,7 @@ key 111   FORWARD_DEL
 key 113   VOLUME_MUTE
 key 114   VOLUME_DOWN
 key 115   VOLUME_UP
-key 116   POWER
+# key 116   POWER
 key 117   NUMPAD_EQUALS
 # key 118 "KEY_KPPLUSMINUS"
 key 119   BREAK
@@ -191,7 +191,7 @@ key 168   MEDIA_REWIND
 key 169   CALL
 # key 170 "KEY_ISO"
 key 171   MUSIC
-key 172   HOME
+# key 172   HOME
 key 173   REFRESH
 # key 174 "KEY_EXIT"
 # key 175 "KEY_MOVE"
